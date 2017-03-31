@@ -2,25 +2,25 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
+- name: 公考中国
+  i18n: familycode
+  img: /static/assets/img/landing/gkzgLogo.png
+  desc: 公考中国是一款公益课程的软件，里面具有海量的免费资料。我们秉承最优质的教学资源，最给力的师资团队，最至臻的服务理念，让考生从零基础到成公上岸一站到底。
+
 - name: 爱牛股
   i18n: familycode
   img: /static/assets/img/landing/ainiuguLogo.png
-  desc: 本人所负责的APP项目之一.</br>爱牛股是由广州金蜜蜂网络科技专为股民推出的一款炒股资讯平台。爱牛股致力于为投资者提供专业、合规、便捷的投资服务。
+  desc: 其是由广州金蜜蜂网络科技专为股民推出的一款炒股资讯软件。爱牛股致力于为投资者提供专业、合规、便捷的投资服务。
 
-- name: 决策天机
+- name: 小美人儿
   i18n: familycode
-  img: /static/assets/img/landing/jctjLogo.png
-  desc: 本人所负责的APP项目之一.</br>决策天机，是集大数据诊股、智能选股、在线问股、组合以及视频直播于一体的综合性炒股(金融/投资/理财/诊股)平台，我们希望做您身边的股票专家，让您的每一笔投资都有价值。
+  img: /static/assets/img/landing/xmreLogo.png
+  desc: 其是一款非常好用的专为爱自拍的朋友打造的软件，随时随地自拍，而且拍下来的效果都是美美哒。拍出美美的自己，滤镜效果十足哦！全球独家电影主题特效，让你的照片瞬间变得高大上。
 
-- name: 金决策
+- name: 在一起
   i18n: familycode
-  img: /static/assets/img/landing/jjcLogo.png
-  desc: 本人所负责的APP项目之一.</br>金决策，是集大数据诊股、智能选股、在线问股、组合以及视频直播于一体的综合性炒股(金融/投资/理财/诊股)平台，我们希望做您身边的股票专家，让您的每一笔投资都有价值。
-
-- name: 盘口大师
-  i18n: familycode
-  img: /static/assets/img/landing/pkdsLogo.png
-  desc: 本人所负责的APP项目之一.</br>盘口大师，是集大数据诊股、智能选股、在线问股、组合以及视频直播于一体的综合性炒股(金融/投资/理财/诊股)平台，我们希望做您身边的股票专家，让您的每一笔投资都有价值。
+  img: /static/assets/img/landing/zyqLogo.png
+  desc: 其由美人信息团队研发打造，是继美人相机、简拼、简客、亲子相机、图片合成器、印象interphoto等工具app后推出的社交产品，是为中国年轻白领打造的交友平台。
 
 - name: MyBlog
   i18n: jalpc
