@@ -22,9 +22,9 @@
   img: /static/assets/img/landing/zyqLogo.png
   desc: 其由美人信息团队研发打造，是继美人相机、简拼、简客、亲子相机、图片合成器、印象interphoto等工具app后推出的社交产品，是为中国年轻白领打造的交友平台。
 
-- name: MyBlog
-  i18n: jalpc
-  gh_user: dengkairong
-  repo: blog
-  img: /static/assets/img/landing/githubLogo.png
-  desc: 本博客的github开源项目.
+# - name: MyBlog
+#   i18n: jalpc
+#   gh_user: dengkairong
+#   repo: blog
+#   img: /static/assets/img/landing/githubLogo.png
+#   desc: 本博客的github开源项目.
