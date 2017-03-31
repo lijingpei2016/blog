@@ -3,10 +3,10 @@
   <channel>
     <title>李总的进阶之路</title>
     <description>dengsir's blog</description>
-    <link>http://localhost:4000/blog/</link>
-    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Mar 2017 10:40:55 +0800</pubDate>
-    <lastBuildDate>Fri, 31 Mar 2017 10:40:55 +0800</lastBuildDate>
+    <link>http://localhost:4000/lijingpei2016.github.io/</link>
+    <atom:link href="http://localhost:4000/lijingpei2016.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 31 Mar 2017 10:44:30 +0800</pubDate>
+    <lastBuildDate>Fri, 31 Mar 2017 10:44:30 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -56,8 +56,8 @@
 &lt;p&gt;If you like this repository, I appreciate you star this repository. Please don’t hesitate to mail me or post issues on GitHub if you have any questions. Hope you have a happy blog time!😊&lt;/p&gt;
 </description>
         <pubDate>Tue, 31 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</guid>
+        <link>http://localhost:4000/lijingpei2016.github.io/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</link>
+        <guid isPermaLink="true">http://localhost:4000/lijingpei2016.github.io/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</guid>
         
         <category>Jalpc</category>
         
