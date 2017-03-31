@@ -2,8 +2,8 @@
 
 # Website settings
 title: 李境沛的进阶之路
-description: dengsir's blog
-keywords: dengsir,李境沛,blog,Jekyll,github
+description: lijingpei blog
+keywords: lijingpei,李境沛,blog,Jekyll,github
 baseurl:  /lijingpei2016.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://lijingpei2016.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
@@ -12,14 +12,14 @@ img_path: /blog/static/assets/img/blog  # url should be '/homepage/static/assets
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: 李境沛  # Be used at blog posts' author.
-  first_name: kairong  # Be used at index page about me section.
-  last_name: deng  # Be used at index page about me section.
+  first_name: jingpei  # Be used at index page about me section.
+  last_name: li  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: dengkairong  # Leave blank if you don't have now
+  github_username: lijignpei  # Leave blank if you don't have now
   #linkedin_id: kun-jia-991264a2 # Leave blank if you don't have now
   #facebook_username: jiakunnj  # Leave blank if you don't have now
   #twitter_username: jiakun614  # Leave blank if you don't have now
-  email: dengsir058@qq.com # Leave blank if you don't have now
+  email: as330732842@qq.com # Leave blank if you don't have now
   #cv: http://cv.jarrekk.com  # A online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
