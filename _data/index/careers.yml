@@ -1,13 +1,13 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: 毕业于广西民族师范学院
+    detail: 毕业于广州大学华软软件学院
     i18n: company_a
   desc:
-    detail: 计算机科学与技术专业
+    detail: 网络工程（网络设计与管理）
     i18n: company_a_desc
   date:
-    detail: 2011年9月 - 2015年6月
+    detail: 2012年9月 - 2016年6月
     i18n: company_a_date
   job:
     detail: 学生
@@ -15,13 +15,13 @@
   icon: fa-plus-square
 
 - name:
-    detail: 广州涌智科技信息有限公司
+    detail: 广州威璐软件科技有限责任公司
     i18n: company_b
   desc:
-    detail: 1、负责公司iPhone客户端软件的开发，参与项目需求分析。</br>2、按计划完成产品的代码编写和单元测试。</br>3、对iOS平台开发技术进行研究。</br>4、提供产品相关技术支持。
+    detail: 1.负责按照设计图完成开发任务；</br>2.参与讨论和解决开发中遇到的问题；</br>3.参与与其他团队的沟通和协调</br>4.封装通用控件。
     i18n: company_b_desc
   date:
-    detail: 2014年10月 - 2016年4月
+    detail: 2014年7月 - 2016年8月
     i18n: company_b_date
   job:
     detail: 实习生 转正 iOS软件开发工程师
@@ -29,15 +29,15 @@
   icon: fa-plus-square
 
 - name:
-    detail: 广州金蜜蜂网络科技有限公司
+    detail: POCO
     i18n: company_b
   desc:
-    detail: 1、带领iOS开发组对公司iOS App项目开发, 拆分和分配各任务到各人.</br>2、参与公司项目的需求分析.</br>3、与其他部门协调和确认接口结构.</br>4、搭建项目框架和确定技术选型.</br>5、编写核心功能模块代码.</br>6、处理iOS部门相关事务.</br>7、跟进iOS平台终端技术的更新,设计和实现新产品和功能.
+    detail: 1.负责iOS客户端的开发与改进；</br>2.面向iOS终端平台，进行前沿的技术探索和软件架构设计工作；</br>3.负责移动端的新技术研究，功能扩展，和自己负责的项目的方法进行改进；</br>4.解耦，把软件模块的结构和流程逻辑进行分化；</br>5.捕获异常。
     i18n: company_b_desc
   date:
-    detail: 2016年5月 - 至今
+    detail: 2016年8月 - 至今
     i18n: company_b_date
   job:
-    detail: iOS部门负责人
+    detail: 资深iOS开发工程师
     i18n: company_b_job
   icon: fa-plus-square
