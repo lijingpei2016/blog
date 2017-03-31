@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: 公考中国
   i18n: familycode
-  img: /static/assets/img/landing/gkzgLogo.png
+  img: /static/assets/img/landing/ainiuguLogo.png
   desc: 其是一款公益课程的软件，里面具有海量的免费资料。我们秉承最优质的教学资源，最给力的师资团队，最至臻的服务理念，让考生从零基础到成公上岸一站到底。
 
 - name: 爱牛股
