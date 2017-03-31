@@ -1,17 +1,17 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: 邓小帅的进阶之路
+title: 李总的进阶之路
 description: dengsir's blog
 keywords: dengsir,邓小帅,blog,Jekyll,github
 baseurl:  /blog # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: http://dengkairong.github.io/blog  # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://lijingpei2016.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /blog/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: 邓小帅  # Be used at blog posts' author.
+  name: 李总  # Be used at blog posts' author.
   first_name: kairong  # Be used at index page about me section.
   last_name: deng  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
